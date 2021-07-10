@@ -1,7 +1,7 @@
 # Colors
 
           
-- ![](https://via.placeholder.com/11/FF006E/000000?text=+) ``#FF006E`` ![](https://via.placeholder.com/15/FB5607/000000?text=+) ``#FB5607`` ![](https://via.placeholder.com/15/F5B400/000000?text=+) ``#F5B400``
+- ![](https://via.placeholder.com/12/FF006E/000000?text=+) ``#FF006E`` ![](https://via.placeholder.com/15/FB5607/000000?text=+) ``#FB5607`` ![](https://via.placeholder.com/15/F5B400/000000?text=+) ``#F5B400``
 
 - ![](https://via.placeholder.com/15/7B2CBF/000000?text=+) ``#7B2CBF`` ![](https://via.placeholder.com/15/9D4EDD/000000?text=+) ``#9D4EDD`` ![](https://via.placeholder.com/15/C77DFF/000000?text=+) ``#C77DFF``
 
