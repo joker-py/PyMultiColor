@@ -1,4 +1,4 @@
-# Version 1.0
+# Colors
 
           
 - ![](https://via.placeholder.com/15/FF006E/000000?text=+) ``#FF006E`` ![](https://via.placeholder.com/15/FB5607/000000?text=+) ``#FB5607`` ![](https://via.placeholder.com/15/F5B400/000000?text=+) ``#F5B400``
