@@ -4,5 +4,5 @@
     <img src="https://drone.gitea.io/api/badges/go-gitea/gitea/status.svg?ref=refs/heads/main">
   </a>
 </p>
-
+## Purpose
 Python Pyside6 Modern Gui with the option of customizing theme colors
