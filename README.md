@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://gitea.io/">
+    <img alt="Gitea" src="https://raw.githubusercontent.com/go-gitea/gitea/main/public/img/gitea.svg" width="220"/>
+  </a>
+</p>
+<h1 align="center">Gitea - Git with a cup of tea</h1>
 <h1 align="center">PyMultiColor</h1>
 <p align="center">
   <a href="https://drone.gitea.io/go-gitea/gitea" title="Build Status">
