@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">PyMultiColor</h1>
 <p align="center">
-  ``Latest Version: 1.5``
+  ``#FF006E``
 </p>
 
 #
