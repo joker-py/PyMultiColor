@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">PyMultiColor</h1>
 <p align="center">
-  ``#FF006E``
+  ![] ``#FF006E``
 </p>
 
 #
