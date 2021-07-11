@@ -5,6 +5,9 @@
 </p>
 <h1 align="center">PyMultiColor</h1>
 <p align="center">
+  <a href="" title="Latest Version: 1.5">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg">
+  </a>
   <a href="https://opensource.org/licenses/MIT" title="License: MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg">
   </a>
